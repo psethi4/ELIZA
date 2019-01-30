@@ -1,4 +1,5 @@
 Problem to Solve:
+
 Write an ELIZA program. The program should engage in a dialogue with the user, with the program Eliza playing the role of a
 psychotherapist. the program should be able carry out "word spotting", that is it should recognize
 certain key words and respond simply based on that word being present in the input. It should also be
